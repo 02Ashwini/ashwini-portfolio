@@ -2,6 +2,7 @@ import Hero from "../components/Hero";
 import TrustedTech from "../components/TrustedTech";
 import FeaturedProject from "../components/FeaturedProject";
 import OtherProjects from "../components/OtherProjects";
+import WhatIBuild from "../components/WhatIBuild";
 import Experience from "../components/Experience";
 import Achievement from "../components/Achievement";
 import Skills from "../components/Skills";
@@ -15,6 +16,7 @@ export default function Home() {
       <TrustedTech />
       <FeaturedProject />
       <OtherProjects />
+      <WhatIBuild />
       <Experience />
       <Achievement />
       <Skills />
