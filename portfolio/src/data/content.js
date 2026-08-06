@@ -65,6 +65,19 @@ export const otherProjects = [
   },
 ];
 
+export const whatIBuild = [
+  "Enterprise Dashboards",
+  "Admin Panels",
+  "Authentication Systems",
+  "REST API Integration",
+  "Responsive UI",
+  "Reusable Component Libraries",
+  "Performance Optimization",
+  "Role Based Access",
+  "JWT Authentication",
+  "MERN Applications",
+];
+
 export const experience = [
   {
     company: "Nine A Business Connect Pvt. Ltd.",
